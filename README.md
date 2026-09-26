@@ -8,12 +8,12 @@ The project focuses on classifying support tickets, identifying their urgency, a
 
 ## Key Features
 
-- 🎫 Technical support ticket management
-- 🤖 AI-assisted ticket classification
-- 🚨 Urgency identification
-- 👥 Ticket assignment
-- 📊 Helpdesk dashboard
-- 🌍 Multilingual ticket handling
+- Technical support ticket management
+-  AI-assisted ticket classification
+- Urgency identification
+- Ticket assignment
+-  Helpdesk dashboard
+-  Multilingual ticket handling
 
 ## Project Dataset
 
@@ -44,7 +44,7 @@ This project helped develop skills in:
 
 ## Project Status
 
-📚 Academic Project
+ Academic Project
 
 This repository currently contains the project documentation. The original source-code files are not currently available in this repository.
 
